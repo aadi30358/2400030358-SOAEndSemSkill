@@ -16,6 +16,8 @@ public class OpenApiConfig {
                         .title("JWT Validation Service")
                         .version("1.0")
                         .description("SOA End Sem Skill - 2400030358")
-                        .contact(new Contact().name("2400030358").email("2400030358@klu.ac.in")));
+                        .contact(new Contact()
+                                .name("GARLAPATI YASWANTH ADITHYA REDDY")
+                                .email("2400030358@klu.ac.in")));
     }
 }

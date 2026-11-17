@@ -1,20 +1,8 @@
-# 2400030358-SOAEndSemSkill: JWT Validation Service
+# 2400030358-SOAEndSemSkill
 
-## Project Information
-- **Project Name:** 2400030358-SOAEndSemSkill
+- **Student Name:** GARLAPATI YASWANTH ADITHYA REDDY
 - **Student ID:** 2400030358
-- **Artifact:** jwtvalidator
-- **Base Package:** com.klu.jwtvalidator
-
----
-
-## Tech Stack
-- **Java:** 17
-- **Spring Boot:** 3.3.5
-- **Build Tool:** Maven
-- **JWT Library:** JJWT 0.12.6 (`jjwt-api`, `jjwt-impl`, `jjwt-jackson`)
-- **API Documentation:** SpringDoc OpenAPI 2.6.0 (`springdoc-openapi-starter-webmvc-ui`)
-- **Validation & Utilities:** Spring Boot Starter Validation, Lombok
+- **Repository:** https://github.com/aadi30358/2400030358-SOAEndSemSkill.git
 
 ---
 
