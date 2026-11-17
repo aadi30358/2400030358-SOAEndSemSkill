@@ -1,5 +1,7 @@
-# 2400030358-SOAEndSemSkill
+# JWT Token Validation and Claims Extraction Using Spring Boot
 
+- **Project Title:** JWT Token Validation and Claims Extraction Service
+- **Project Name:** 2400030358-SOAEndSemSkill
 - **Student Name:** GARLAPATI YASWANTH ADITHYA REDDY
 - **Student ID:** 2400030358
 - **Repository:** https://github.com/aadi30358/2400030358-SOAEndSemSkill.git
